@@ -1,0 +1,7 @@
+{
+  "name": "MTM Advocacia - Premium Digital Card",
+  "description": "A high-end digital business card for MTM Advocacia featuring AI-powered preliminary legal consultation and quick contact integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
